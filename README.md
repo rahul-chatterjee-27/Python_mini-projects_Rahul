@@ -106,14 +106,14 @@ python filename.py
 
 ## 👨‍💻 Author  
 
-<div align="center">
+<div align="left">
 
 **Rahul Chatterjee**  
 🎓 Electronics & Communication Engineering  
-💡 Aspiring AI/ML Engineer | Python Developer  
+💡 AI/ML Enthusiast | Python Developer | Turning Ideas into Practical Solutions  
 
 [![GitHub](https://img.shields.io/badge/GitHub-rahul--chatterjee--27-black?style=for-the-badge&logo=github)](https://github.com/rahul-chatterjee-27)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahulchatterjeeofficial/)
 
 </div>
 
