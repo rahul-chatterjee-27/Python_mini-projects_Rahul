@@ -101,3 +101,20 @@ cd python-mini-projects
 
 # Run any project
 python filename.py
+```
+
+
+## 👨‍💻 Author  
+```
+<div align="center">
+
+**Rahul Chatterjee**  
+🎓 Electronics & Communication Engineering  
+💡 Aspiring AI/ML Engineer | Python Developer  
+
+[![GitHub](https://img.shields.io/badge/GitHub-rahul--chatterjee--27-black?style=for-the-badge&logo=github)](https://github.com/rahul-chatterjee-27)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-username)
+
+</div>
+
+---
