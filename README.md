@@ -74,12 +74,23 @@ Each project focuses on:
   - qrcode  
 
 ---
-
+python-mini-projects/
+│
+├── projects/
+│   ├── atm_simulation.py
+│   ├── number_guessing_game.py
+│   ├── password_generator.py
+│   ├── qr_code_generator.py
+│   ├── rock_paper_scissors.py
+│   └── dice_rolling_simulator.py
+│
+├── requirements.txt
+└── README.md
 ## ⚙️ How to Run  
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/python-mini-projects.git
+git clone https://github.com/rahul-chatterjee-27/Python_mini-projects_Rahul.git
 
 # Navigate to folder
 cd python-mini-projects
