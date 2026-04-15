@@ -1,123 +1,88 @@
-🚀 Python Mini Projects Portfolio
+# 🚀 Python Mini Projects Portfolio  
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)  
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)  
+![Projects](https://img.shields.io/badge/Projects-6-orange?style=for-the-badge)  
+![Level](https://img.shields.io/badge/Level-Beginner--to--Intermediate-yellow?style=for-the-badge)  
 
+---
 
+## 📌 Overview  
 
+This repository contains **6 Python-based mini projects** designed to demonstrate strong fundamentals in programming, logic building, and real-world problem-solving.
 
+Each project focuses on:
+- Structured logic  
+- User input handling  
+- Game mechanics & simulations  
+- Practical utility tools  
 
+💡 This portfolio reflects my ability to build functional systems and scale toward advanced applications.
 
+---
 
-📌 Overview
+## 🧠 Projects Included  
 
-This repository contains 6 Python-based mini projects designed to demonstrate strong fundamentals in programming, logic building, and real-world problem-solving.
+### 🏦 ATM Simulation System  
+- Check balance  
+- Deposit money  
+- Withdraw money  
+- Low balance alert  
 
-Each project is built using clean CLI interaction, showcasing:
+---
 
-Structured logic
-User input handling
-Game mechanics & simulations
-Practical utility tools
+### 🎯 Number Guessing Game  
+- User-defined range  
+- Random number generation  
+- 10 attempts limit  
+- Score based on remaining attempts  
 
-💡 This portfolio reflects my ability to quickly build functional systems and scale toward more complex applications.
+---
 
-🧠 Projects Breakdown
-🏦 ATM Simulation System
+### 🔐 Password Generator  
+- Custom password generation  
+- Includes numbers, letters, symbols  
+- Password strength checker  
 
-Simulates a basic banking system with:
+---
 
-Balance checking
-Deposit & withdrawal
-Low balance alert
+### 📱 QR Code Generator  
+- Generate QR from any URL  
+- Save as image file  
 
-✔ Demonstrates real-world system logic
-✔ Focus on condition handling & user flow
+---
 
-🎯 Number Guessing Game
+### ✊ Rock Paper Scissors  
+- Play against computer  
+- Multiple rounds  
+- Score tracking  
 
-Interactive game where:
+---
 
-User defines range
-System generates random number
-Score depends on attempts left
+### 🎲 Dice Rolling Simulator  
+- Roll multiple dice  
+- Continuous play mode  
+- Tracks roll count  
 
-✔ Game logic + scoring system
-✔ Loop control mastery
+---
 
-🔐 Password Generator
+## 🛠️ Tech Stack  
 
-Creates secure passwords using:
+- **Language:** Python  
+- **Libraries Used:**  
+  - random  
+  - qrcode  
 
-Numbers
-Letters
-Special characters
+---
 
-Also evaluates password strength dynamically.
+## ⚙️ How to Run  
 
-✔ Security fundamentals
-✔ Randomized generation logic
-
-📱 QR Code Generator
-
-Generates QR codes from user-provided URLs.
-
-✔ Uses external Python library
-✔ Practical real-world application
-
-✊ Rock Paper Scissors
-
-Classic game vs computer with:
-
-Multiple rounds
-Score tracking
-Emoji-based UI
-
-✔ Decision-making logic
-✔ Clean gameplay loop
-
-🎲 Dice Rolling Simulator
-
-Simulates rolling multiple dice repeatedly.
-
-✔ Random simulations
-✔ Continuous user interaction
-
-🛠️ Tech Stack
-Language: Python
-Libraries:
-random
-qrcode
-⚙️ Installation & Run
-# Clone repository
+```bash
+# Clone the repository
 git clone https://github.com/your-username/python-mini-projects.git
 
-# Move into folder
+# Navigate to folder
 cd python-mini-projects
 
 # Run any project
 python filename.py
-🌟 What Makes This Stand Out
-
-✔ Strong foundation in core Python concepts
-✔ Covers both fun + practical applications
-✔ Clean, readable, and modular logic
-✔ Demonstrates problem-solving mindset
-✔ Ready to scale into AI/ML or full-stack projects
-
-📈 Future Enhancements
-Add GUI (Tkinter / PyQt)
-Convert to Web Apps (Flask / Django)
-Add Database (SQLite / Firebase)
-Improve error handling & validations
-Deploy selected tools online
-👨‍💻 Author
-
-Rahul Chatterjee
-🎓 Electronics & Communication Engineering
-💡 Aspiring AI/ML Engineer | Python Developer
-
-⭐ Support
-
-If you found this useful:
-👉 Star the repo
-👉 Connect on LinkedIn
-👉 Follow for more projects
