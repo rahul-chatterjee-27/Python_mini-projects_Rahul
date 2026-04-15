@@ -75,7 +75,7 @@ Each project focuses on:
 
 ---
 ## 📂 Project Structure  
-
+```
 python-mini-projects/
 │
 ├── projects/
@@ -88,6 +88,8 @@ python-mini-projects/
 │
 ├── requirements.txt
 └── README.md
+```
+
 ## ⚙️ How to Run  
 
 ```bash
