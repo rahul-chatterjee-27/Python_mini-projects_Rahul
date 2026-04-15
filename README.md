@@ -74,6 +74,8 @@ Each project focuses on:
   - qrcode  
 
 ---
+## 📂 Project Structure  
+
 python-mini-projects/
 │
 ├── projects/
